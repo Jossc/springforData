@@ -1,0 +1,11 @@
+#yml更直观
+
+spring:
+  datasource:
+    username: xp
+    password: xp123
+    url: jdbc:mysql://120.27.27.14:3307/xp
+server:
+  port: 8080
+
+
